@@ -90,11 +90,8 @@ p {
   color: #ffffff;
 }
 
-/* Image height and width added */
 .content section img {
   max-height: 200px;
-  height: 200px;
-  width: 300px;
 }
 
 .content section h2 {
@@ -122,13 +119,10 @@ p {
   text-align: center;
 }
 
-/* Image height and width added */
 .benefits section img {
   display: block;
   margin: 10px auto;
   max-width: 150px;
-  width: 150px;
-  height: 150px;
 }
 
 .footer {
